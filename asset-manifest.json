@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_list-of-goods/static/css/main.a490fc8f.chunk.css",
+    "main.js": "/react_list-of-goods/static/js/main.c099c012.chunk.js",
+    "main.js.map": "/react_list-of-goods/static/js/main.c099c012.chunk.js.map",
+    "runtime-main.js": "/react_list-of-goods/static/js/runtime-main.60ba98b1.js",
+    "runtime-main.js.map": "/react_list-of-goods/static/js/runtime-main.60ba98b1.js.map",
+    "static/css/2.d20abe7f.chunk.css": "/react_list-of-goods/static/css/2.d20abe7f.chunk.css",
+    "static/js/2.e7510e25.chunk.js": "/react_list-of-goods/static/js/2.e7510e25.chunk.js",
+    "static/js/2.e7510e25.chunk.js.map": "/react_list-of-goods/static/js/2.e7510e25.chunk.js.map",
+    "index.html": "/react_list-of-goods/index.html",
+    "static/css/2.d20abe7f.chunk.css.map": "/react_list-of-goods/static/css/2.d20abe7f.chunk.css.map",
+    "static/css/main.a490fc8f.chunk.css.map": "/react_list-of-goods/static/css/main.a490fc8f.chunk.css.map",
+    "static/js/2.e7510e25.chunk.js.LICENSE.txt": "/react_list-of-goods/static/js/2.e7510e25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60ba98b1.js",
+    "static/css/2.d20abe7f.chunk.css",
+    "static/js/2.e7510e25.chunk.js",
+    "static/css/main.a490fc8f.chunk.css",
+    "static/js/main.c099c012.chunk.js"
+  ]
+}
